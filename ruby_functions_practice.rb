@@ -105,8 +105,8 @@ def volume_of_sphere(r)
   return (4 / 3) * (pi) * (r**3)
 end
 
-# def fahrenheit_to_celsius(fahrenheit)
-#   return (fahrenheit - 32) / 1.8
-# end
+def fahrenheit_to_celsius(fahrenheit)
+  return (fahrenheit - 32) / 1.8
+end
 
 # def miles_to_kilometres

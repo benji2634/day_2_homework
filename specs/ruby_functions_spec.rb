@@ -80,11 +80,11 @@ class Functions_Practice < MiniTest::Test
     assert_equal( 3141.592653589793, volume_result )
   end
 
-  # #You can add your own converters
-  # def test_fahrenheit_to_celsius()
-  #   celsius_result = fahrenheit_to_celsius(100)
-  #   assert_equal( 37.77777777777778, celsius_result )
-  # end
+  #You can add your own converters
+  def test_fahrenheit_to_celsius()
+    celsius_result = fahrenheit_to_celsius(100)
+    assert_equal( 37.77777777777778, celsius_result )
+  end
 
   # def test_miles_to_kilometres
 

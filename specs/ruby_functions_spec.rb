@@ -78,14 +78,14 @@ class Functions_Practice < MiniTest::Test
 
   end
 
-#   #You can add your own converters
-#   def test_fahrenheit_to_celsius()
+  #You can add your own converters
+  def test_fahrenheit_to_celsius()
 
-#   end
+  end
 
-#   def test_miles_to_kilometres
+  # def test_miles_to_kilometres
 
-#   end
+  # end
 
 
 end

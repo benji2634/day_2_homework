@@ -77,7 +77,7 @@ class Functions_Practice < MiniTest::Test
   #Try using Ruby's PI value!
   def test_volume_of_sphere()
     volume_result = volume_of_sphere(10)
-    assert_equal( 3141.592653589793, volume_result )
+    assert_equal( 4188.790204786391, volume_result )
   end
 
   #You can add your own converters

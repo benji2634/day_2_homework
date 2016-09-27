@@ -72,11 +72,11 @@ class Functions_Practice < MiniTest::Test
 
   end
 
-#   #Given the radius of a sphere calculate the volume
-#   #Try using Ruby's PI value!
-#   def test_volume_of_sphere()
+  #Given the radius of a sphere calculate the volume
+  #Try using Ruby's PI value!
+  def test_volume_of_sphere()
 
-#   end
+  end
 
 #   #You can add your own converters
 #   def test_fahrenheit_to_celsius()

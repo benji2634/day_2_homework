@@ -86,9 +86,10 @@ class Functions_Practice < MiniTest::Test
     assert_equal( 37.77777777777778, celsius_result )
   end
 
-  # def test_miles_to_kilometres
-
-  # end
+  def test_miles_to_kilometres
+    kilometres_result = miles_to_kilometres(10)
+    assert_equal( 16.0934, kilometres_result )
+  end
 
 
 end
